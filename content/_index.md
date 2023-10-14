@@ -38,8 +38,7 @@ sections:
               * The segmented classes were tested on Relis dataset by Texas A&M
               * Involved in experimentation for off-road navigation
 
-    design:
-      columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
