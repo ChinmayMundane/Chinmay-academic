@@ -38,13 +38,14 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-
 <!--StartFragment-->
 
-Hi! I am Dvij Kalaria, a final-year undergraduate student at the Department of Computer Science and Engineering, IIT Kharagpur. I am interested in motion planning and controls, machine learning and computer vision especially in the domain of autonomous vehicles. Since summer, I have been working on compensating for practical delays during control of autonomous racing cars under the guidance of Dr. John Dolan and Dr. Qin Lin at the Robotics Institute, Carnegie Mellon University. Apart from this, I am working on safeguarding machine learning models against adversarial attacks as part of my undergraduate thesis.
+H﻿i ! I am Chinmay Mundane, a pre-final year undergraduate student at the Department of Production Engineering , VJTI Mumbai. I am interested in researching more about the modularity in the mechanical design of robotics systems. Along with this, I am greatly interested in motion planning and perception of autonomous vehicles and currently working on the same.
 
-I am also an active member of the Autonomous Ground Vehicle Research Group on campus, which is driven by undergraduate students to conduct research projects in the direction of autonomous driving.
+O﻿ther than research, I love teaching. I have taken lot of workshops and lectures on pid control, bit images and forward kinematics for the underclassmen under the robotics club of my college and it is what i would like to pursue as a career along with research.
+
+W﻿hen I am not doing the above, I prefer to read books, write poetry and play piano. 
 
 <!--EndFragment-->
+
 {style="text-align: justify;"}
