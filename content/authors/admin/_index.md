@@ -29,7 +29,7 @@ education:
   courses:
     - course: B.Tech in Production Engineering
       institution: VJTI
-      year: ""
+      year: 3
 superuser: true
 status:
   icon: ☕️
