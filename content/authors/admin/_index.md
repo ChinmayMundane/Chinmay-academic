@@ -1,7 +1,7 @@
 ---
 title: Chinmay Mundane
 role: Pre-Final Year Undergraduate
-avatar_filename: avatar.png
+avatar_filename: avatar.jpeg
 bio: My research interests include Robotic Systems design and its Autonomous
   Navigation.
 interests: []
