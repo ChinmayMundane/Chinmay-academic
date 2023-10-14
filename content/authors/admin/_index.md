@@ -4,7 +4,12 @@ role: Pre-Final Year Undergraduate
 avatar_filename: avatar.jpeg
 bio: My research interests include Robotic Systems design and its Autonomous
   Navigation.
-interests: []
+interests:
+  - Mechanical-Design
+  - Soft-Robotics
+  - Controls
+  - Path-Planning
+  - Computer-Vision
 social:
   - icon: github
     icon_pack: fab
@@ -14,7 +19,9 @@ social:
     link: https://www.linkedin.com/in/chinmay-mundane/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/13flcmUhocRUCBGFRMKqMsCGxlaCkN-ZD/view?usp=sharing
+    display:
+      header: false
 organizations:
   - name: Veermata Jijabai Technological Institute(VJTI)
     url: https://vjti.ac.in/
