@@ -24,26 +24,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: MoonLab IISER Bhoal
+          company: Research Intern
+          company_url: 'https://github.com/ChinmayMundane/Offroad-Nav'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Bhopal
+          date_start: 'June 2023'
+          date_end: 'Aug 2023'
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Created an Ground truth annotator interface to label offroad data used in offroad navigation
+              * Incorporated Super pixel labelling by using SLIC algorithm and researched differnt methods to perform semantic segmentation on the test images
+              * The segmented classes were tested on Relis dataset by Texas A&M
+              * Involved in experimentation for off-road navigation
+
     design:
       columns: '2'
   - block: accomplishments
