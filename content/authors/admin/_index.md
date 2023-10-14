@@ -27,9 +27,9 @@ organizations:
     url: https://vjti.ac.in/
 education:
   courses:
-    - course: B.Tech in Production Engineering
+    - course: B.Tech in Production Engineering, 2021-25
       institution: VJTI
-      year: 3
+      year: ""
 superuser: true
 status:
   icon: ☕️
