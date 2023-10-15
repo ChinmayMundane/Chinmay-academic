@@ -36,6 +36,7 @@ sections:
               * Created an Ground truth annotator interface to label offroad data used in offroad navigation
               * Incorporated Super pixel labelling by using SLIC algorithm and researched differnt methods to perform semantic segmentation on the test images
               * The segmented classes were tested on Relis dataset by Texas A&M
+              * Involved in experimentation for off-road navigation
 
 
   - block: accomplishments
@@ -113,8 +114,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-
-
   - block: collection
     id: featured
     content:
