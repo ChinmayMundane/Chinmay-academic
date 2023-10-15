@@ -111,8 +111,17 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
+   # design:
+  #  columns: '1'
+
     design:
-      columns: '1'
+      background:
+        video:
+          # Name of video in `assets/media/albums/demo`.
+          filename: video1.mp4
+          # Post-processing: flip the video horizontally?
+          flip: false
+
   - block: collection
     id: featured
     content:
