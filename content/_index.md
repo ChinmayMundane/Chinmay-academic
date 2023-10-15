@@ -24,9 +24,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: IISER Bhopal
+        - title: MoonLab IISER Bhopal
           company: Research intern
-          company_url: ''
+          company_url: 'https://moonlab.iiserb.ac.in/'
           company_logo: org-gc
           location: Bhopal
           date_start: '2023-06-01'
@@ -36,14 +36,7 @@ sections:
               * Created an Ground truth annotator interface to label offroad data used in offroad navigation
               * Incorporated Super pixel labelling by using SLIC algorithm and researched differnt methods to perform semantic segmentation on the test images
               * The segmented classes were tested on Relis dataset by Texas A&M
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        
     design:
       columns: '2'
   - block: accomplishments
