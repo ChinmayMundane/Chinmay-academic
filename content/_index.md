@@ -24,18 +24,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: IISER Bhopal
+          company: Research intern
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Bhopal
+          date_start: '2023-06-01'
+          date_end: '2023-08-01'
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Created an Ground truth annotator interface to label offroad data used in offroad navigation
+              * Incorporated Super pixel labelling by using SLIC algorithm and researched differnt methods to perform semantic segmentation on the test images
+              * The segmented classes were tested on Relis dataset by Texas A&M
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
